@@ -38,7 +38,7 @@ Recognized the most in-demand mobile models
 This project is ideal for demonstrating skills in data preparation, EDA, and dashboarding. The Power BI report can help stakeholders quickly grasp business performance and support data-driven decision-making.
 
 📂 Included Files
-Cleaned dataset (Mobile_Sales_2017.xlsx)
+Screenshot of the dashboard - https://github.com/Aquib18/Mobile-Sales-Analysis/blob/main/Dashboard.png
 
 EDA script (EDA_Mobile_Sales.ipynb)
 
